@@ -10,3 +10,4 @@ def checkerboard(n):
 
 print(checkerboard(int(input("Enter the even no of Rows : "))))
 
+print("thank you")
